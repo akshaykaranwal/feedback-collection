@@ -1,2 +1,2 @@
-![alt text](http://url/to/fb1.png)
-![alt text](http://url/to/fb2.png)
+![Form](/fb1.png)
+![After Submission](/fb2.png)
